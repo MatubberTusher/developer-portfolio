@@ -58,13 +58,11 @@ h2{
     height: 80%;
 }
 #full-stack{
-    padding: 5px;
     border-left: 7px solid;
     border-image: linear-gradient(180deg, lightsalmon, tomato);
     border-image-slice: 1;
 }
 #baby-web{
-    padding: 5px;
     border-left: 7px solid;
     border-image: linear-gradient(180deg, blue, cyan);
     border-image-slice: 1;
