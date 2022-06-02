@@ -80,7 +80,7 @@ footer p{
 @media only screen and (max-width:688px) {
     body{
         width: auto;
-        padding: auto;
+
         margin: auto;
     }
     .top-banner{
