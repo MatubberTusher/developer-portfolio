@@ -76,6 +76,11 @@ footer p{
 /* Mobile Devices */
 
 @media only screen and (max-width:688px) {
+    body{
+        width: auto;
+        padding: auto;
+        margin: auto;
+    }
     .top-banner{
         width: auto;
         padding: auto;
@@ -92,6 +97,11 @@ footer p{
         margin: auto;
     }
     .experience-area{
+        width: auto;
+        padding: auto;
+        margin: auto;
+    }
+    .anchor-button{
         width: auto;
         padding: auto;
         margin: auto;
