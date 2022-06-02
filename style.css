@@ -108,12 +108,12 @@ footer p{
     }
     #full-stack{
         width: auto;
-        padding: auto;
+        padding: 10px;
         margin-bottom: 10px;
     }
     #baby-web{
         width: auto;
-        padding: auto;
+        padding: 10px;
         margin-top: 10px;
     }
 }
