@@ -70,3 +70,30 @@ h2{
 footer p{
     text-align: center;
 }
+
+
+
+/* Mobile Devices */
+
+@media only screen and (max-width:688px) {
+    .top-banner{
+        width: auto;
+        padding: auto;
+        margin: auto;
+    }
+    .half-width{
+        width: auto;
+        padding: auto;
+        margin: auto;
+    }
+    .dream-area{
+        width: auto;
+        padding: auto;
+        margin: auto;
+    }
+    .experience-area{
+        width: auto;
+        padding: auto;
+        margin: auto;
+    }
+};
